@@ -1,0 +1,14 @@
+.Channel_logo_app {
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 100%;
+    background-color: rgb(224, 227, 214);
+    display: flex;
+}
+
+.fstChar_logo_app {
+    margin: auto;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+}
